@@ -1,0 +1,24 @@
+{
+  "HomePage": {
+    "title": "Poke Api",
+    "description": "Discover and create new Pokémon cards.",
+    "placeholder": "Search for a Pokémon",
+    "translationES": "Spanish",
+    "translationEN": "English"
+  },
+  "Pagination": {
+    "previous": "Previous",
+    "next": "Next",
+    "page": "Page",
+    "of": "of"
+  },
+  "Card": {
+    "goBack": "Go Back",
+    "showFront": "Show Front",
+    "showBack": "Show Back"
+  },
+  "Errors": {
+    "notPokemonFound": "No Pokémon found.",
+    "errorLoadPokemon": "Error loading Pokémon."
+  }
+}
