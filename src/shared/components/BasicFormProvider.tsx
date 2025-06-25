@@ -37,7 +37,7 @@ export function BasicFormProvider<T>({
     <form
       onSubmit={
         submit
-          ? currentMethods.handleSubmit((data) => submit(data), onError)
+          ? currentMethods.handleSubmit((data) => submit(data as any), onError)
           : undefined
       }
     >
